@@ -1,1 +1,17 @@
-
+<bug_report>
+  <number>1</number>
+  <priority>High</priority>
+  <severity>High</severity>
+  <operating system>macOS Ventura 13.2</operating system>
+  <device>MacBook Pro 13' 2019</device>
+  <title>text</title>
+  <description>text</description>
+  <steps to reproduce>
+    <step_1>text</step_1>
+    <step_2>text</step_2>
+    <step_3>text</step_3>
+    <step_4>text</step_4>
+  </steps to reproduce>
+  <expected_result>text</expected_result>
+  <actual_result>text</actual_result>
+</bug_report>
